@@ -1,1 +1,3 @@
-
+cd emirates-craft
+git remote set-url origin https://github.com/banimalek-a11y/emirates-craft.git
+git push -u origin main --force
